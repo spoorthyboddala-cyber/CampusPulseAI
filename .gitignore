@@ -1,0 +1,7 @@
+# CampusPulseAI
+
+.venv/
+.venv312/
+__pycache__/
+*.pyc
+.env
