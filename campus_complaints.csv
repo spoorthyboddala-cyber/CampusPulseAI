@@ -1,0 +1,241 @@
+complaint,category
+Wi-Fi signal drops every few minutes in the library reading room,Wi-Fi
+Cannot authenticate on campus wireless network after updating phone,Wi-Fi
+Wi-Fi connection speeds are extremely slow in Block C hostel,Wi-Fi
+Student portal login screen freezes when connecting to campus Wi-Fi,Wi-Fi
+Getting limited connectivity error when joining wireless router,Wi-Fi
+Wi-Fi disconnects continuously during online video lectures,Wi-Fi
+Hostel Wi-Fi signal does not reach corner rooms on the 3rd floor,Wi-Fi
+Campus network keeps rejecting valid student login password,Wi-Fi
+High ping latency makes online lab network simulations impossible,Wi-Fi
+Wi-Fi bandwidth is heavily throttled during afternoon hours,Wi-Fi
+Laptops fail to obtain an IP address from the university router,Wi-Fi
+Wireless coverage is completely dead near the sports complex,Wi-Fi
+Captive portal web page refuses to redirect to login screen,Wi-Fi
+Wireless network disconnects automatically when switching buildings,Wi-Fi
+Seminar hall Wi-Fi router appears to be powered off completely,Wi-Fi
+Student portal shows network connection timeout error on Wi-Fi,Wi-Fi
+Streaming educational videos buffers endlessly on campus internet,Wi-Fi
+Cannot register MAC address on student wireless portal system,Wi-Fi
+Wi-Fi connection drops whenever more than twenty users connect,Wi-Fi
+Dormitory wireless signal fluctuates constantly throughout night,Wi-Fi
+Wireless adapter unable to detect campus SSID broadcast name,Wi-Fi
+IP address conflict error keeps popping up on student laptop,Wi-Fi
+DNS server not responding message on campus wireless network,Wi-Fi
+Firewall blocking secure access to online exam portal via Wi-Fi,Wi-Fi
+Router restart required manually in computer lab every morning,Wi-Fi
+Network switch port failure causing total internet outage in block,Wi-Fi
+EDUROAM profile configuration failing on mobile devices,Wi-Fi
+Proxy server authentication popup blocking internet browser access,Wi-Fi
+Packet loss spikes destroying voice call quality on campus VoIP,Wi-Fi
+DHCP lease expiration cutting off active student sessions,Wi-Fi
+No running water available in the 3rd floor washrooms of main block,Water
+Drinking water dispenser on the 1st floor is leaking everywhere,Water
+Water cooler near the library is dispensing dirty brown liquid,Water
+Restroom taps have very low water pressure in mechanical block,Water
+Drinking water filter unit needs urgent servicing and replacement,Water
+Hot water supply is completely out in hostel block A bathrooms,Water
+Water cooler is dispensing hot water instead of cold drinking water,Water
+Continuous water leakage from overhead pipe in central corridor,Water
+Foul sewage smell coming out from the drinking water taps,Water
+No water in the taps of the sports complex changing room,Water
+Water dispenser tray is overflowing and spilling onto floor,Water
+Restroom flush tanks are not filling up due to lack of supply,Water
+Drinking water tastes metallic and smells unpleasant in block B,Water
+Water leakage near elevator shaft causing dangerous slippery floors,Water
+Restroom tap is broken and spraying water continuously around,Water
+Overhead water tank is overflowing on top of library building,Water
+Water purifier machine making loud noises and not dispensing,Water
+Drinking water fountain filter indicator light turned solid red,Water
+Dirty rusty water coming out of hostel washroom taps since morning,Water
+Water supply in student mess was cut off completely during lunch,Water
+Drainage pipe bursting near washroom causing massive flood,Water
+Main underground water supply line ruptured near science block,Water
+Valve handle snapped off on main hallway drinking fountain,Water
+Sump pump failure leaving hostel blocks with zero water pressure,Water
+Boiler system broken down leaving zero hot water for showers,Water
+Water meter leaking gallons of water outside administration office,Water
+Rainwater seeping into underground water storage reservoir tank,Water
+Hand wash sink drainage pipe detached flooding floor completely,Water
+Water faucet completely jammed shut refusing to turn or open,Water
+High mineral scale clogging all faucets in faculty block washrooms,Water
+Dustbins in main hall are overflowing with food wrappers and trash,Cleanliness
+Washroom floors in civil block are filthy and completely uncleaned,Cleanliness
+Classroom desks are covered in thick layers of dust and dirt,Cleanliness
+Foul smell coming from uncleaned garbage bins near cafeteria,Cleanliness
+Staircase steps are littered with plastic bottles and paper waste,Cleanliness
+Cobwebs hanging heavily from ceiling in lecture hall room 204,Cleanliness
+Washroom mirrors are heavily smudged and completely unhygienic,Cleanliness
+Cafeteria tables are greasy and covered in leftover food crumbs,Cleanliness
+Uncleaned spill on second floor hallway floor making it very sticky,Cleanliness
+Trash bins near main gate entry have not been emptied for days,Cleanliness
+Restroom sinks are clogged with hair clumps and paper towels,Cleanliness
+Litter scattered widely across student activity center courtyard,Cleanliness
+Foul odor coming from drainage line behind student mess hall,Cleanliness
+Classroom whiteboards are dirty and smeared with old marker ink,Cleanliness
+Garbage bags piled up hazardously near emergency exit stairwell,Cleanliness
+Washrooms lack liquid soap in dispensers and proper hygiene supplies,Cleanliness
+Dust accumulating thickly on library reading tables and bookshelf tops,Cleanliness
+Used coffee cups left unattended across seminar room desks,Cleanliness
+Corridor floors need urgent sweeping and intensive mopping,Cleanliness
+Muddy footprints covering entire entrance foyer floor after rain,Cleanliness
+Sweeper staff absent leaving classrooms full of trash all day,Cleanliness
+Dead leaves and dirt accumulating deeply in open corridors,Cleanliness
+Overflowing dumpsters behind hostel block spreading foul stench,Cleanliness
+Stained toilet bowls in faculty rest room uncleaned for weeks,Cleanliness
+Spilled soda sticky residue left uncleaned on auditorium seats,Cleanliness
+Dust storm debris left inside classrooms without being swept,Cleanliness
+Broken glass fragments left uncleaned on hallway floor,Cleanliness
+Dirty mop water left sitting in bucket creating horrible smell,Cleanliness
+Unemptied sanitary bins overflowing in girls hostel washrooms,Cleanliness
+Molded food container rotting inside classroom desk drawer,Cleanliness
+Projector display in room 101 is severely blurred and flickering green,Classroom Equipment
+Classroom ceiling fan is wobbling violently and making loud noise,Classroom Equipment
+Podium microphone is producing severe static feedback noise,Classroom Equipment
+Whiteboard markers are completely dried out in lecture room 302,Classroom Equipment
+HDMI connector cable for professor laptop is damaged and missing,Classroom Equipment
+Computer mouse in lab 2 is completely unresponsive and dead,Classroom Equipment
+Air conditioning in auditorium is not cooling and blowing warm air,Classroom Equipment
+Power sockets under student desks are loose and not supplying power,Classroom Equipment
+Projector remote control is missing batteries in room 205,Classroom Equipment
+Whiteboard surface is scratched deeply and impossible to erase cleanly,Classroom Equipment
+Classroom speaker audio is muffled and cuts out intermittently,Classroom Equipment
+Broken desk chairs with sharp dangerous wooden edges in room 401,Classroom Equipment
+Smartboard touch screen calibration is severely misaligned,Classroom Equipment
+Tube light bulb in classroom 104 is flickering continuously,Classroom Equipment
+Classroom window blinds mechanism is jammed and stuck open,Classroom Equipment
+Computer monitor in lab 4 displays a black screen upon booting up,Classroom Equipment
+Projector screen pull-down cord is broken and snapped completely,Classroom Equipment
+Audio jack input port at teacher podium is broken off,Classroom Equipment
+Classroom bench seats are loose and wobbling dangerously,Classroom Equipment
+Air conditioner unit in computer lab is leaking water indoors,Classroom Equipment
+Document camera document bed cracked and unusable for teaching,Classroom Equipment
+Extension cord burnt out due to short circuit under student desk,Classroom Equipment
+Smart podium touch panel unresponsive to any finger touch,Classroom Equipment
+Lecture hall speaker cone torn producing distorted audio output,Classroom Equipment
+Ethernet port on lab desk broken off inside wall socket,Classroom Equipment
+Blinds chain snapped leaving lecture hall exposed to blinding sun,Classroom Equipment
+Lab stool legs welded improperly causing chairs to collapse,Classroom Equipment
+Overhead lighting control switch panel broken and hanging loose,Classroom Equipment
+Interactive flat panel screen glass cracked across center display,Classroom Equipment
+Slide advancer laser clicker receiver missing from computer lab,Classroom Equipment
+College bus route 4 arrived thirty minutes late this morning,Transport
+Bus driver was speeding and driving aggressively on the highway,Transport
+College bus was severely overcrowded with students standing near door,Transport
+Bus driver skipped designated campus stop without picking students,Transport
+Air conditioning in university bus was completely non-functional,Transport
+Bus route timings clash badly with late evening lab class schedules,Transport
+College bus breakdown stranded students halfway to campus,Transport
+Bus pass verification portal fails when processing online fees,Transport
+Broken seat frames and torn upholstery inside university bus,Transport
+Pick up point location was changed without sending any notice,Transport
+Bus driver refused to stop at approved student drop off point,Transport
+Not enough buses assigned to handle morning peak student rush,Transport
+College bus door mechanism is faulty and fails to close properly,Transport
+Emergency exit window on college bus is stuck and jammed shut,Transport
+Bus conductor collected incorrect fare charges from day scholars,Transport
+No evening bus service provided for students attending extra classes,Transport
+College bus exhaust is emitting thick black smoke into the air,Transport
+Bus driver was using mobile phone while driving with students,Transport
+College bus suspension severely damaged making rides uncomfortable,Transport
+Insufficient bus capacity on long distance routes causing delays,Transport
+Bus battery dead leaving vehicle stranded at starting point,Transport
+Tire blowout on transit bus causing dangerous highway emergency,Transport
+Bus wiper blades torn failing to clear windshield in heavy rain,Transport
+Unlicensed substitute driver operating college transit vehicle,Transport
+Bus route deviation caused massive delay reaching examination hall,Transport
+Headlights broken on transport bus operating during night hours,Transport
+Bus registration sticker expired risking police traffic penalties,Transport
+Overheated radiator engine smoke forcing bus evacuation,Transport
+Horns non-operational on crowded campus commuter transit bus,Transport
+Step well metal plate rusted through risking passenger foot injury,Transport
+Exposed electrical wires dangling dangerously near main staircase landing,Safety
+Emergency exit fire door is chained shut and blocked by heavy boxes,Safety
+Expired fire extinguisher mounted on the wall in block C corridor,Safety
+Staircase handrail is loose and wobbling heavily when leaned upon,Safety
+Broken glass window pane on ground floor poses severe injury risk,Safety
+CCTV cameras near student parking lot are entirely non-operational,Safety
+Pathway streetlights are burnt out creating pitch dark walkways at night,Safety
+Slippery wet floor in corridor with zero cautionary warning signs,Safety
+Damaged ceiling tile in danger of falling down on passing students,Safety
+No security guard posted at campus back gate entry checkpoint,Safety
+Unauthorized strangers seen roaming freely near student residence halls,Safety
+Chemical lab storage room left completely unlocked and unattended,Safety
+Low hanging sharp tree branches blocking main pedestrian walkway,Safety
+First aid kit in engineering lab is completely unstocked and empty,Safety
+Fire alarm system beeped falsely multiple times during the day,Safety
+Broken concrete paving stones causing tripping hazards on pathways,Safety
+Electrical junction box left open with exposed high voltage wires,Safety
+Dark staircase wells due to fused light bulbs posing safety risk,Safety
+Emergency exit signage light is turned off in the main auditorium,Safety
+Cracked glass doors at library entrance need urgent structural repair,Safety
+Corroded iron balcony railing collapsing outward on block A,Safety
+Open manhole cover left uncovered without warning markers,Safety
+Acid carboy stored insecurely on high shelf risking major spill,Safety
+High voltage transformer enclosure lock broken open to public,Safety
+Slippery moss covered stone steps causing multiple student falls,Safety
+Rotten wooden roof beam sagging dangerously over common room,Safety
+Unfenced deep drainage ditch posing extreme drowning hazard,Safety
+Welding sparks flying near flammable chemical storage area,Safety
+Broken security fence gap allowing stray cattle into hostel zone,Safety
+Panic bar hardware broken on main assembly hall exit door,Safety
+Library quiet study area is noisy due to loud group discussions,Library
+Book checkout portal is offline and unable to process borrowings,Library
+Required course textbook copies are out of stock in the library,Library
+Library desk charging sockets are broken and not working,Library
+Library operating hours are too short during semester exam week,Library
+Online e-book database throws access denied authorization error,Library
+Library book drop box is jam-packed and rejecting item returns,Library
+Journal access links on library web portal are broken entirely,Library
+Help desk librarian is absent during posted office hours,Library
+Air conditioner in main library reading room is completely broken,Library
+Library fine payment system charges incorrect late fee amounts,Library
+Insufficient seating availability in library during peak hours,Library
+Computers in digital library section are infected with malware,Library
+Online library catalog displays incorrect book shelf location numbers,Library
+Pages are missing and torn out from core reference textbooks,Library
+Library book search terminal is frozen on a system error screen,Library
+Loud construction noise near library disrupting student study focus,Library
+Borrowing quota limit on student ID card calculating incorrectly,Library
+Library book scanner is unable to scan ISBN barcodes properly,Library
+Unorganized book shelves make locating assigned readings difficult,Library
+RFID gate alarm triggering false theft alerts on legitimate books,Library
+Interlibrary loan request system returning database connection faults,Library
+Study carrel desk divider panels falling apart from age,Library
+Carpet flooring in library reading hall soaked and smelling moldy,Library
+Microfilm reader machine broken down in archives section,Library
+Locker storage units in lobby jammed shut trapping student bags,Library
+Book reservation pickup shelf disorganized losing hold items,Library
+Lighting fixtures buzzing loudly above silent study tables,Library
+Power strip surge protector burnt out on library group table,Library
+Online database subscription expired blocking journal access,Library
+Long waiting queues at canteen food counters during lunch hour,Canteen
+Food served at canteen was undercooked and completely unhygienic,Canteen
+Canteen food prices increased unexpectedly without prior notice,Canteen
+Drinking water glasses provided at canteen were unwashed and dirty,Canteen
+Lack of healthy vegetarian food options available on the menu,Canteen
+Digital UPI payment scanner machine at canteen counter is offline,Canteen
+Food items served at lunch were cold, stale, and unpalatable,Canteen
+Canteen dining tables are sticky and covered in heavy food grease,Canteen
+Expired packaged snack items found openly on canteen store shelves,Canteen
+Canteen food servers are not wearing hygiene gloves or hairnets,Canteen
+Canteen runs out of popular food items thirty minutes into lunch,Canteen
+Flies and insects hovering heavily around open food trays in canteen,Canteen
+Lack of proper trash bins leading to garbage overflow in canteen,Canteen
+Canteen cashier refuses to issue printed physical purchase receipts,Canteen
+Stray cats and dogs wandering freely around canteen dining seating area,Canteen
+Drinking water dispenser near canteen smells foul and dirty,Canteen
+Canteen food quality has deteriorated significantly this entire week,Canteen
+Long delay in order preparation time at fast food snack counter,Canteen
+Canteen seating capacity is insufficient for peak lunch hours,Canteen
+Cutlery and spoons in canteen are oily and improperly washed,Canteen
+Food poisoning reported by students eating chicken curry at mess,Canteen
+Rats spotted running across storage shelves in canteen pantry,Canteen
+Grease exhaust hood dripping oil directly onto cooking range,Canteen
+Refrigeration unit failure spoiling milk and dairy stock inventory,Canteen
+Stale cooking oil reused repeatedly causing bitter tasting meals,Canteen
+Plastic packaging fragment found cooked inside vegetarian meal,Canteen
+Canteen drinking mugs coated with dried tea crust residues,Canteen
+Cashier short changing students during peak lunch hour rush,Canteen
+Rotting vegetable crates left decomposing near kitchen backdoor,Canteen
+Subsidized meal portion sizes reduced drastically without notice,Canteen
